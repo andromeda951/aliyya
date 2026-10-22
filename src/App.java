@@ -34,8 +34,13 @@ public class App {
 // 21 repitation
 // 22 array
 // 23 array
+// 23 array 2d
 // 24 function
 // 25 function
 // OOP
 
+// a->b...          ADA
+// 
 
+
+// 6 SD  ->  kalkulus S1
